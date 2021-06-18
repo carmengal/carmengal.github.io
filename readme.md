@@ -1,7 +1,7 @@
-## (Nombre del proyecto)
+## (Perdido en Bellas Artes)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
-Perdido en Bellas Artes
+
 
 
 # 1 Datos 
