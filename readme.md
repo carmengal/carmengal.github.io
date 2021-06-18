@@ -10,7 +10,7 @@ Perdido en Bellas Artes
 
 **Titulo** : Perdido en Bellas Artes
 
-**Web:**   carmengal.github.io
+**Web:**   http://carmengal.github.io
 
 **Autor:**  Carmen Galindo Vílchez
 
