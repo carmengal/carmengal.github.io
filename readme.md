@@ -1,42 +1,40 @@
 ## (Nombre del proyecto)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
-
+Perdido en Bellas Artes
 
 
 # 1 Datos 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Perdido en Bellas Artes
 
-**Web:**   (url github.io)
+**Web:**   carmengal.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Carmen Galindo Vílchez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto es un paseo por la facultad de Bellas Artes en donde el jugador podrá conocer mejor el edificio mientras se le propone distitnos minijuegos.
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![logo](https://user-images.githubusercontent.com/84967350/122534185-94de6380-d022-11eb-8b02-8b36f31e6a3a.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px, tamaño ajustable
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  Google Chrome, Microsoft Edge
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 18,4 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 17/06/2021
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** 
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://github.com/carmengal
+
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -46,8 +44,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
